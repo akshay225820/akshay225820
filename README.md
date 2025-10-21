@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Akshay 👋
 
-<!--
-**akshay225820/akshay225820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Cybersecurity Expert | Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+### 🔭 Projects
+- 🛡️ **Phishing Detection Tool** – Detects phishing links automatically.
+- 🌐 **Website Automation** – Using Python & Selenium for web tasks.
+- 📊 **Smart Home Automation** – Using Hardware Components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Skills
+- Programming: Python,C++,C
+- Web: HTML, CSS, JavaScript, Next.js
+- Security: Network Analysis, Penetration Testing
+
+### 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/akshay-sonwane-b60a922a6/]
+- Email: akshayraje984@gmail.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay225820&show_icons=true&theme=radical)
